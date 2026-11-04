@@ -10,6 +10,8 @@ public class TrainingGitApplication {
 		SpringApplication.run(TrainingGitApplication.class, args);
 
 		System.out.println("Hello");
+		System.out.println("Hello");
+		System.out.println("Hello");
 	}
 
 }
